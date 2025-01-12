@@ -34,7 +34,7 @@ This project provides a Python-based solution for monitoring auroral activity (N
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/aurora-monitor.git
+   git clone https://github.com/Bartasx4/Aurora.git
    cd aurora-monitor
    ```
 
